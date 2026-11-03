@@ -1,8 +1,0 @@
-2026/11/03-01:03:35.513200 7f672bfff6c0 Recovering log #47
-2026/11/03-01:03:35.781937 7f672bfff6c0 Delete type=3 #45
-2026/11/03-01:03:35.782000 7f672bfff6c0 Delete type=0 #47
-2026/11/03-01:28:37.434057 7f67293af6c0 Level-0 table #52: started
-2026/11/03-01:28:37.434089 7f67293af6c0 Level-0 table #52: 0 bytes OK
-2026/11/03-01:28:37.489208 7f67293af6c0 Delete type=0 #50
-2026/11/03-01:28:37.566779 7f67293af6c0 Manual compaction at level-0 from '!actors!vehAirCruiserXXX' @ 72057594037927935 : 1 .. '!folders!vehSpaceVehicles' @ 0 : 0; will stop at (end)
-2026/11/03-01:28:37.566823 7f67293af6c0 Manual compaction at level-1 from '!actors!vehAirCruiserXXX' @ 72057594037927935 : 1 .. '!folders!vehSpaceVehicles' @ 0 : 0; will stop at (end)

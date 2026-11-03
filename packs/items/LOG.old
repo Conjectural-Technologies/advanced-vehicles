@@ -1,8 +1,0 @@
-2026/11/03-01:03:35.789565 7f672bfff6c0 Recovering log #44
-2026/11/03-01:03:36.069643 7f672bfff6c0 Delete type=3 #42
-2026/11/03-01:03:36.069727 7f672bfff6c0 Delete type=0 #44
-2026/11/03-01:28:37.567072 7f67293af6c0 Level-0 table #49: started
-2026/11/03-01:28:37.567117 7f67293af6c0 Level-0 table #49: 0 bytes OK
-2026/11/03-01:28:37.610856 7f67293af6c0 Delete type=0 #47
-2026/11/03-01:28:37.843332 7f67293af6c0 Manual compaction at level-0 from '!folders!dndBackgroundsXX' @ 72057594037927935 : 1 .. '!items.effects!vehNaturalSwimme.vehIncreasedSwim' @ 0 : 0; will stop at (end)
-2026/11/03-01:28:37.843415 7f67293af6c0 Manual compaction at level-1 from '!folders!dndBackgroundsXX' @ 72057594037927935 : 1 .. '!items.effects!vehNaturalSwimme.vehIncreasedSwim' @ 0 : 0; will stop at (end)

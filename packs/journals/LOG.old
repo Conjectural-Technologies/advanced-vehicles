@@ -1,8 +1,0 @@
-2026/11/03-01:03:36.074071 7f67413fe6c0 Recovering log #42
-2026/11/03-01:03:36.312749 7f67413fe6c0 Delete type=3 #40
-2026/11/03-01:03:36.312846 7f67413fe6c0 Delete type=0 #42
-2026/11/03-01:28:37.688351 7f67293af6c0 Level-0 table #47: started
-2026/11/03-01:28:37.688379 7f67293af6c0 Level-0 table #47: 0 bytes OK
-2026/11/03-01:28:37.776688 7f67293af6c0 Delete type=0 #45
-2026/11/03-01:28:37.843366 7f67293af6c0 Manual compaction at level-0 from '!folders!dndAdvancedDunge' @ 72057594037927935 : 1 .. '!journal.pages!dndReferenceJour.gngSiegeWeaponAm' @ 0 : 0; will stop at (end)
-2026/11/03-01:28:37.843461 7f67293af6c0 Manual compaction at level-1 from '!folders!dndAdvancedDunge' @ 72057594037927935 : 1 .. '!journal.pages!dndReferenceJour.gngSiegeWeaponAm' @ 0 : 0; will stop at (end)

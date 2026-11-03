@@ -1,8 +1,0 @@
-2026/11/03-01:03:36.316308 7f6741bff6c0 Recovering log #42
-2026/11/03-01:03:36.644292 7f6741bff6c0 Delete type=3 #40
-2026/11/03-01:03:36.644361 7f6741bff6c0 Delete type=0 #42
-2026/11/03-01:28:37.610989 7f67293af6c0 Level-0 table #47: started
-2026/11/03-01:28:37.611018 7f67293af6c0 Level-0 table #47: 0 bytes OK
-2026/11/03-01:28:37.688207 7f67293af6c0 Delete type=0 #45
-2026/11/03-01:28:37.843351 7f67293af6c0 Manual compaction at level-0 from '!effects!dndGrappledXXXXX' @ 72057594037927935 : 1 .. '!folders!vehMovementSizeX' @ 0 : 0; will stop at (end)
-2026/11/03-01:28:37.843402 7f67293af6c0 Manual compaction at level-1 from '!effects!dndGrappledXXXXX' @ 72057594037927935 : 1 .. '!folders!vehMovementSizeX' @ 0 : 0; will stop at (end)
