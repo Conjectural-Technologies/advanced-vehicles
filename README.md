@@ -1,5 +1,7 @@
 # Advanced Vehicles
 
+**Release:** 2.0.0.
+
 A compendium of vehicles, siege equipment, vehicle weapons and ammunition for D&D 5e in Foundry VTT v14.
 
 **Requirements:** Foundry VTT v14 and the D&D 5e system 6.0.6 or newer. This module contains content only, with no scripts or settings.
